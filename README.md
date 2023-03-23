@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sohibnut
 - 👀 I’m interested in programming👨‍💻
-- 🌱 I’m currently learning OpenGL
+- 🌱 I’m currently learning Neural Networks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
