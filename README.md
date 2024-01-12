@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sohibnut
-- 👀 I’m interested in programming👨‍💻
-- 🌱 I’m currently learning Neural Networks, Django, Pillow
+- 👀 I’m interested in programming👨‍💻, Gaming🎮
+- 🌱 I’m currently learning Neural Networks, Django, Pillow, Computer Vision
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
